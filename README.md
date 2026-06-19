@@ -1,7 +1,7 @@
 # SauceDemo Playwright UI Automation — Assignment 3
 
-**Name:** <Mir Ali Shaikh>
-**Student ID:** <se231073>
+**Name:** Mir Ali Shaikh
+**Student ID:** se231073
 
 ## How to run the tests
 
